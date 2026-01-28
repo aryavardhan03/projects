@@ -1,0 +1,20 @@
+1. Product Perspective
+The Smart Queue Management System for Banks is a standalone, web-based application designed to manage customer queues within bank branches. It can be accessed through computers or display systems inside the bank. The system operates independently and does not integrate with core banking or financial transaction systems.
+2. Product Functions
+The major functions of the system include:
+•	Generation of virtual tokens for customers
+•	Real-time display of queue status
+•	Calling and serving customers in sequence
+•	Service counter allocation and management
+•	Notification alerts to customers
+•	Administrative monitoring and basic reporting
+3. User Characteristics
+•	Bank Customers: Basic understanding of digital displays or mobile notifications
+•	Bank Tellers: Basic computer knowledge and system operation skills
+•	Bank Manager / Admin: Familiarity with administrative dashboards and reports
+
+4. Constraints
+•	The system requires a stable internet connection
+•	Must comply with bank security and privacy policies
+•	Limited to queue management functions only
+•	Dependent on hardware such as display screens and terminals
