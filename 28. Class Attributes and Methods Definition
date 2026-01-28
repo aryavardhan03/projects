@@ -1,0 +1,29 @@
+Class Name	                    Attributes	                     Methods
+Customer	                     customerId                        requestToken()
+                                tokenNumber                      viewQueueStatus()
+                              notificationStatus	               receiveNotification()    
+                              
+
+Token	                             tokenId                      generateToken()
+                                  tokenNumber                   updateStatus()
+                                  tokenStatus	               
+
+Queue	                               queueId                     addToken()
+                                  tokenList	                     removeToken()
+                                                                 getNextToken()
+
+ServiceCounter	                   counterId                   assignToken()
+                                  counterStatus	                releaseCounter()                   
+
+Teller                       	tellerIdloginStatus	             callNextToken()
+                                                               serveCustomer()
+Admin	                              adminId                   	manageCounters()
+                                  accessLevel                  	manageUsers()
+                                                                generateReport()
+                                                      
+Notification                    	notificationId
+                                  messageContent	             sendNotification()
+Report	                             reportId
+                                    reportType                 createReport()
+                                    reportData	               viewReport()
+viewReport()
