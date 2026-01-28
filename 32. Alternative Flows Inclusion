@@ -1,0 +1,8 @@
+Alternative flows represent exceptional conditions that may occur during normal system operation and show how the system handles them gracefully.
+Alternative Flow 1: Empty Queue Scenario
+•	If the teller attempts to call the next token when the queue is empty, the system displays a message indicating that no customers are currently waiting.
+Alternative Flow 2: System Downtime
+•	If the system is temporarily unavailable, token requests are not processed and a notification is shown to the user.
+Alternative Flow 3: Notification Delivery Failure
+•	If a customer notification cannot be delivered due to technical issues, the system logs the failure and retries sending the notification.
+Including these alternative flows improves system robustness and reliability.
