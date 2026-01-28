@@ -1,0 +1,16 @@
+The out-of-scope features define the functionalities that are not included in the Smart Queue Management System for Banks. These limitations help maintain a clear project boundary and avoid scope creep.
+Out-of-Scope Features
+1.	Online Banking Transactions
+The system will not handle money transfers, deposits, withdrawals, or payments.
+2.	Loan and Account Processing
+Loan approvals, account creation, and KYC verification are not covered.
+3.	ATM and Cash Machine Services
+Queue management for ATMs is excluded.
+4.	Appointment Scheduling
+Advance appointment booking is not supported.
+5.	Hospital or Non-Banking Services
+The system is strictly limited to bank branch queue management.
+6.	Customer Data Analytics Beyond Basic Reports
+Advanced analytics and AI-based predictions are not included.
+7.	Third-Party Financial System Integration
+Integration with core banking or external financial platforms is excluded.
