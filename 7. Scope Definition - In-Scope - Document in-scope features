@@ -1,0 +1,10 @@
+The in-scope features define the functionalities that are included in the Smart Queue Management System for Banks. These features are essential for efficient queue handling and service management within bank branches.
+In-Scope Features
+1.	Customer Token Generation: Customers can generate virtual tokens for bank services through the system.
+2.	Real-Time Queue Monitoring: Customers and staff can view the current queue status and token position in real time.
+3.	Service Counter Management: The system allows assignment and management of multiple service counters.
+4.	Calling Next Customer: Bank tellers can call the next token electronically from the system.
+5.	Notification System: Customers receive alerts when their turn is approaching.
+6.	User Authentication: Secure login for bank staff and administrators.
+7.	Admin Dashboard: Bank administrators can monitor queue flow, counters, and performance statistics.
+8.	Basic Reports: Generation of simple reports such as number of customers served and waiting time.
