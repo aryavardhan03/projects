@@ -1,0 +1,10 @@
+The Software Requirements Specification (SRS) document for the Smart Queue Management System for Banks has been prepared by consolidating all previously defined sections, including the problem statement, stakeholder analysis, scope definition, functional requirements, non-functional requirements, use case descriptions, and glossary.
+The complete SRS document includes:
+•	Introduction and purpose of the system
+•	Overall system description
+•	Functional requirements (FR-01 to FR-08)
+•	Non-functional requirements (NFR-01 to NFR-04)
+•	Scope definition and boundaries
+•	Use case diagrams
+•	Glossary of terms
+The SRS document follows standard software engineering practices and serves as a baseline reference for system design and development.
