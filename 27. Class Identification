@@ -1,0 +1,10 @@
+Classes represent the key entities of the Smart Queue Management System for Banks. Based on the system requirements and use cases, the following core classes have been identified:
+•	Customer
+•	Token
+•	Queue
+•	ServiceCounter
+•	Teller
+•	Admin
+•	Notification
+•	Report
+These classes collectively model the structure and behavior of the system.
