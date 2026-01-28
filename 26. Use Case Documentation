@@ -1,0 +1,36 @@
+Use Case 1: Generate Token
+Actor: Bank Customer
+Precondition:Customer is present in the bank branch
+Main Flow:
+1.	Customer requests a new token.
+2.	System generates a unique token number.
+3.	Token is added to the active queue.
+4.	Token number is displayed to the customer.
+Alternative Flow:
+•	If the system is unavailable, token generation fails.
+Postcondition:
+Customer receives a valid token.
+
+Use Case 2: Call Next Token
+Actor:Bank Teller
+Precondition:Teller is authenticated and queue is not empty
+Main Flow:
+1.	Teller selects “Call Next Token.”
+2.	System identifies the next token in the queue.
+3.	Token is assigned to a service counter.
+4.	Token status is updated to “In Service.”
+Alternative Flow:
+•	If the queue is empty, the system displays a message.
+Postcondition:
+Next customer is called for service.
+
+Use Case 3: Monitor Queue Performance
+Actor:Bank Manager/Administrator
+Precondition:Admin is authenticated
+Main Flow:
+1.	Admin accesses the dashboard.
+2.	System displays real-time queue statistics.
+3.	Admin reviews performance metrics.
+Alternative Flow:
+•	If no data is available, system displays default values.
+Postcondition:
