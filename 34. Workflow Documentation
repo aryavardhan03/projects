@@ -1,0 +1,22 @@
+Workflow documentation explains complex system processes using clear steps, decision points, and parallel activities. It helps in understanding how different components of the Smart Queue Management System for Banks work together in real-world scenarios.
+Workflow 1: End-to-End Customer Service Workflow
+1.	Customer enters the bank branch.
+2.	Customer requests a virtual token using the queue system.
+3.	System validates availability and generates a token.
+4.	Token is placed in the active queue.
+5.	Customer waits while monitoring queue status.
+6.	System sends notification when the turn is near.
+7.	Teller calls the token and assigns a service counter.
+8.	Customer approaches the counter.
+9.	Service is provided and completed.
+10.	Token is removed from the queue.
+This workflow ensures fair, transparent, and efficient service delivery.
+Workflow 2: Teller Queue Handling Workflow
+1.	Teller logs into the system securely.
+2.	Teller views the current queue status.
+3.	Teller calls the next available token.
+4.	System checks for queue availability.
+5.	Token is assigned to a service counter.
+6.	Teller serves the customer.
+7.	Service completion is updated in the system.
+8.	Queue moves to the next token automatically.
