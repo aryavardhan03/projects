@@ -1,0 +1,9 @@
+For the design phase of the Smart Queue Management System for Banks, a Computer-Aided Software Engineering (CASE) tool was selected to create and manage system diagrams efficiently.
+Selected CASE Tool: StarUML
+StarUML was installed and configured on the development system to support UML-based modeling. The tool is used to design various diagrams such as use case diagrams, class diagrams, sequence diagrams, activity diagrams, component diagrams, and deployment diagrams.
+The CASE tool enables:
+•	Standard UML notation
+•	Clear visualization of system design
+•	Easy modification and version control of diagrams
+•	Improved understanding of system architecture
+The successful installation and configuration of the CASE tool ensures a structured and systematic approach to system design.
