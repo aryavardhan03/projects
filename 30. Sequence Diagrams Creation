@@ -1,0 +1,7 @@
+Sequence diagrams represent the chronological interaction between actors and system components for specific system operations. In the Smart Queue Management System for Banks, sequence diagrams are used to visualize how customers, bank staff, and the system communicate during queue-related activities.
+The following sequence diagrams are created to capture critical system processes:
+•	Token Generation Process
+•	Calling and Serving the Next Customer
+•	Customer Notification Process
+•	Administrative Queue Monitoring Process
+These diagrams help developers and stakeholders clearly understand the internal working of the system and identify responsibilities of each component.
