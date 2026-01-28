@@ -1,0 +1,11 @@
+Based on the identified actors, the core use cases of the Smart Queue Management System for Banks are defined as follows:
+1.	Generate Token
+2.	View Queue Status
+3.	Receive Notification
+4.	Call Next Token
+5.	Serve Customer
+6.	Manage Service Counters
+7.	User Authentication
+8.	Monitor Queue Performance
+9.	Generate Reports
+These use cases collectively describe the primary functionalities of the system.
