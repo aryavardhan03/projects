@@ -1,0 +1,51 @@
+The functional requirements describe what the Smart Queue Management System for Banks must do to support efficient queue handling and service management.
+
+FR-01: Customer Token Generation
+Description:
+The system shall allow bank customers to generate a virtual token for service.
+Acceptance Criteria:
+•	Customer can successfully generate a token
+•	A unique token number is assigned
+•	Token is added to the active queue
+FR-02: Display Queue Status
+Description:
+The system shall display the current queue status to customers and staff.
+Acceptance Criteria:
+•	Queue list is visible on display screens
+•	Token order is accurate and updated in real time
+FR-03: Call Next Token
+Description:
+The system shall allow bank tellers to call the next token in the queue.
+Acceptance Criteria:
+•	Only the next valid token is called
+•	Token status changes to “In Service”
+FR-04: Service Counter Management
+Description:
+The system shall support multiple service counters within a bank branch.
+Acceptance Criteria:
+•	Counters can be added or removed by admin
+•	Each called token is linked to a counter
+FR-05: Notification to Customers
+Description:
+The system shall notify customers when their turn is approaching.
+Acceptance Criteria:
+•	Notification is triggered before the turn
+•	Notification content is clear and accurate
+FR-06: User Authentication
+Description:
+The system shall provide secure login access for tellers and administrators.
+Acceptance Criteria:
+•	Only authorized users can log in
+•	Invalid login attempts are rejected
+FR-07: Admin Dashboard Access
+Description:
+The system shall provide an admin dashboard for monitoring queue activities.
+Acceptance Criteria:
+•	Admin can view queue statistics
+•	Admin can manage counters and users
+FR-08: Report Generation
+Description:
+The system shall generate basic operational reports.
+Acceptance Criteria:
+•	Reports include number of customers served
+•	Reports can be viewed or downloaded
