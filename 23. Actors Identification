@@ -1,0 +1,11 @@
+Actors represent external entities that interact with the Smart Queue Management System for Banks. Identifying actors helps in understanding system interactions and defining use cases.
+The following actors have been identified:
+•	Bank Customer
+Initiates token generation, views queue status, and receives notifications.
+•	Bank Teller /Service Staff
+Calls the next customer, serves customers, and manages service counters.
+•	Bank Manager/Administrator
+Manages system users, service counters, monitors queue performance, and generates reports.
+•	Notification System
+Sends alerts and notifications to customers when their turn is approaching.
+These actors interact 
