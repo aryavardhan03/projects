@@ -1,0 +1,22 @@
+The project structure within the CASE tool was designed to logically organize all UML diagrams related to the Smart Queue Management System for Banks.
+The following structure was created:
+•	Use Case Diagrams
+o	Customer Use Cases
+o	Teller Use Cases
+o	Admin Use Cases
+•	Class Diagrams
+o	Core System Classes
+o	Supporting Classes
+•	Sequence Diagrams
+o	Token Generation Flow
+o	Queue Management Flow
+o	Notification Flow
+o	Admin Monitoring Flow
+•	Activity Diagrams
+o	Customer Activity Flow
+o	Teller Workflow
+•	Component Diagram
+o	System Architecture Components
+•	Deployment Diagram
+o	System Deployment Environment
+This structured approach ensures clarity, maintainability, and ease of understanding of the overall system design.
