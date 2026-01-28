@@ -1,0 +1,11 @@
+Use case relationships illustrate how different use cases are connected using include and extend relationships.
+•	User Authentication is included in:
+o	Call Next Token
+o	Manage Service Counters
+o	Monitor Queue Performance
+o	Generate Reports
+•	Receive Notification extends:
+o	Generate Token
+•	Serve Customer includes:
+o	Call Next Token
+These relationships help in modularizing system functionality and reducing redundancy.
