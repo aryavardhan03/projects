@@ -1,0 +1,15 @@
+Term	                                      Description
+Smart Queue Management System	              A digital system used to manage and monitor customer queues in bank branches
+Bank Customer                       	      A person visiting the bank to avail services
+Token	                                      A virtual queue number assigned to a customer
+Queue                                     	A waiting line of customers for bank services
+Teller	                                    Bank staff responsible for serving customers
+Admin	                                      Bank manager or authorized staff who manages the system
+Service Counter	                            A designated desk where bank services are provided
+Queue Status	                              Current position and progress of the queue
+Notification	                              Alert sent to a customer when their turn approaches
+Dashboard                                 	Admin interface used to monitor queue performance
+SRS	                                        Software Requirements Specification document
+UI (User Interface)	                        The visual interface through which users interact with the system
+Authentication	                            Process of verifying user identity before system access
+Report	                                    Summary of queue statistics such as customers served and waiting time
