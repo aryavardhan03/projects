@@ -1,0 +1,20 @@
+Non-functional requirements define the quality attributes and performance standards of the Smart Queue Management System for Banks.
+NFR-01: Performance
+The system shall respond to user actions such as token generation and queue updates within acceptable time limits.
+•	Acceptance Criteria:
+o	Token generation response time ≤ 2 seconds
+o	Queue status updates occur in near real time
+NFR-02: Security
+The system shall ensure secure access and protect user data.
+•	Acceptance Criteria:
+o	Role-based login for staff and admin
+o	Unauthorized access is prevented
+NFR-03: Reliability & Availability
+The system shall be available during bank working hours with minimal downtime.
+•	Acceptance Criteria:
+o	System availability of at least 99%
+o	Automatic recovery from minor failures
+NFR-04: Usability
+The system shall be easy to use by customers and bank staff.
+•	Acceptance Criteria:
+o	Simple and intuitive user interface
