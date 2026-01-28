@@ -1,0 +1,10 @@
+The stakeholder register is a formal document that identifies all stakeholders involved in the Smart Queue Management System for Banks along with their roles, interests, and influence levels. This register helps in understanding stakeholder expectations and managing their involvement throughout the project lifecycle.
+Stakeholder                    	Role	              Interests	                                                                 Influence Level
+Bank Customers	                End Users	          Reduced waiting time, transparent queue status, faster service	           Medium
+Bank Tellers / Service Staff	 System Users	        Organized workflow, reduced manual effort, smooth service delivery        	High
+Bank Manager / Administrator	 System Owner	        Queue monitoring, staff optimization, service efficiency                  	High
+Bank Management	               Project Sponsor	    Operational efficiency, customer satisfaction, performance insights       	High
+IT Support Team	               Technical Support	  System reliability, security, maintenance	                                  Medium
+Regulatory Authorities	       Oversight Body	      Compliance with banking norms, customer safety	                           Low to Medium
+
+The stakeholder register is reviewed and approved to ensure all relevant stakeholders are identified and their expectations are considered during system development.
