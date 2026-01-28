@@ -1,0 +1,18 @@
+The scope boundaries define the limits of the Smart Queue Management System for Banks by clearly specifying what the system will and will not do. This helps avoid ambiguity and ensures that the project remains focused on its intended objectives.
+Included Within Scope:
+•	Management of customer queues inside bank branches
+•	Virtual token generation for bank customers
+•	Real-time display of queue status
+•	Calling customers through digital tokens
+•	Service counter allocation and monitoring
+•	Notifications to customers regarding their turn
+•	Administrative control and basic reporting
+Excluded from Scope:
+•	Financial transactions such as deposits, withdrawals, or fund transfers
+•	Loan processing, account creation, and KYC services
+•	ATM and online banking services
+•	Advance appointment scheduling
+•	Integration with core banking systems
+•	Hospital or non-banking queue management
+System Boundaries:
+The system operates only within bank premises and focuses solely on queue management. It acts as a support system for customer service flow and does not interfere with banking operations or financial decision-making.
