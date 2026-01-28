@@ -1,0 +1,19 @@
+The design document explains the architectural and design decisions made during the development of the Smart Queue Management System for Banks. The system is designed using a modular and layered approach to improve maintainability, clarity, and scalability.
+Design Decisions
+•	A modular architecture is used to separate queue management, token handling, notification, and reporting.
+•	UML diagrams are used to visually represent system structure and behavior.
+•	Security is handled through role-based authentication for staff and administrators.
+•	The database is centralized to maintain data consistency and integrity.
+Assumptions
+•	The system is deployed within bank premises.
+•	Users have basic digital literacy.
+•	Internet or local network connectivity is available during working hours.
+Limitations
+•	The system does not support financial transactions.
+•	Advanced analytics and AI-based predictions are not included.
+•	Integration with core banking systems is not supported.
+Scalability Considerations
+•	The system can be extended to support multiple bank branches.
+•	Additional service counters can be added easily.
+•	Notification methods can be expanded (SMS, email, display alerts).
+This design ensures that the Smart Queue Management System for Banks meets functional requirements while remaining simple, reliable, and suitable for academic implementation.
