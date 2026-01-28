@@ -1,0 +1,67 @@
+Project Title
+Smart Queue Management System for Banks
+
+Project Overview
+The Smart Queue Management System for Banks is a software-based solution aimed at automating and optimizing customer queue handling inside bank branches. The system replaces traditional physical queues and manual token systems with a digital queue management approach that provides virtual token generation, real-time queue monitoring, and notification alerts. The project focuses on improving customer experience, reducing waiting time, and enhancing operational efficiency for bank staff.
+
+Project Objectives
+The primary objectives of this project are:
+•	To reduce customer waiting time in bank branches
+•	To eliminate overcrowding caused by physical queues
+•	To provide transparency in queue status for customers
+•	To assist bank staff in managing queues efficiently
+•	To improve service delivery and customer satisfaction
+•	To develop a reliable and user-friendly queue management system using software engineering principles
+
+Project Scope
+The scope of this project includes the design and development of a Smart Queue Management System that supports:
+•	Virtual token generation for bank customers
+•	Real-time display of queue status
+•	Calling customers in an organized sequence
+•	Management of multiple service counters
+•	Notification alerts to customers when their turn approaches
+•	Administrative monitoring and basic reporting
+The system is strictly limited to queue management and does not perform any financial or banking transactions.
+
+Stakeholders
+The key stakeholders involved in the project include:
+•	Bank Customers – End users who generate tokens and track queue status
+•	Bank Tellers / Service Staff – Users who call customers and manage counters
+•	Bank Manager / Administrator – System owner responsible for monitoring and control
+•	Bank Management – Sponsors interested in service efficiency and customer satisfaction
+•	IT Support Team – Responsible for system maintenance and support
+
+Project Deliverables
+The major deliverables of the project are:
+•	Software Requirements Specification (SRS) document
+•	Use Case Diagrams
+•	Class Diagram
+•	Sequence Diagrams
+•	Activity Diagrams
+•	Component Diagram
+•	Deployment Diagram
+•	System Design Document
+•	Final Mini Project Report
+
+Assumptions
+•	Bank branches have basic digital infrastructure such as computers and display screens
+•	Users have basic knowledge of using digital systems
+•	Internet connectivity is available during bank working hours
+•	The system is used only for queue management purposes
+
+Constraints
+•	The system does not integrate with core banking systems
+•	Financial transactions are outside the project scope
+•	The system must comply with basic security and privacy policies
+•	Project development is limited to the academic timeline
+
+Risks
+•	Network connectivity issues may affect real-time updates
+•	Resistance to adoption by staff unfamiliar with digital systems
+•	Limited scalability due to academic project constraints
+
+Project Timeline (High-Level)
+•	Requirement Analysis & SRS: Week 1–2
+•	System Design & Diagrams: Week 3–4
+•	Documentation & Review: Week 5
+•	Final Submission: Week 6
