@@ -1,4 +1,4 @@
-# Smart Queue Management System for Banks and Hospitals
+# Smart Queue Management System for Banks 
 
 Software Engineering & Agile Development Mini Project
 
